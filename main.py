@@ -44,8 +44,7 @@ while run:
     if keys[pygame.K_s] and y<500-height:
         # increment in y co-ordinate
         y += vel
-    
-    #add if not drawing program
+
     #win.fill((0,0,0))
 
     # drawing object on screen which is rectangle here 
